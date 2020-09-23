@@ -1,4 +1,4 @@
 import numpy as np
 
-a = np.arange(24)
+a = np.zeros(5)
 print a
